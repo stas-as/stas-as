@@ -16,4 +16,11 @@
 - Коммуникабельность,
 - Ответственность,
 
+##  Contact me
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM&logoColor=3F4F75)](https://t.me/asmolov_stas)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=E5D3FF)](https://vk.com/minerromanenko)
+
+## Project:
+[![Project](https://img.shields.io/badge/-footbool-090909?style=for-the-badge&logo=premierleague&logoColor=E5D3FF)](https://github.com/stas-as/Project_1)
+
 Понимаю общие процессы обучения ML и их улучшение с помощью кросс валидации и подбор гиперпараметров, так же не проблема обработка и анализ данных, выбор метрик.
