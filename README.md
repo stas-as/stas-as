@@ -22,7 +22,7 @@
 - Looking for a company for an internship. 
 
 ## Project:
-[![Project](https://img.shields.io/badge/-footbool-090909?style=for-the-badge&logo=premierleague&logoColor=E5D3FF)](https://github.com/stas-as/Project_1)
+[![Project](https://img.shields.io/badge/-football-090909?style=for-the-badge&logo=premierleague&logoColor=E5D3FF)](https://github.com/stas-as/Proget_football)
 
 ##  Contact me
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM&logoColor=3F4F75)](https://t.me/asmolov_stas)
