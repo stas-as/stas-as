@@ -16,7 +16,7 @@
 - Communication skills,
 - Responsibility
 
-###  Currently 
+### Currently 
 - I am studying on the SkillFactory platform. 
 - Analyzing works on Kaggle.
 - Looking for a company for an internship. 
